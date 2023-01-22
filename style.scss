@@ -272,10 +272,11 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  position: fixed;
+  right: 0px;
+  top: 90px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
